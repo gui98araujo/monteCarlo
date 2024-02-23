@@ -1,3 +1,5 @@
+sudo pip install -e git+git://github.com/matplotlib/matplotlib.git#egg=matplotlib
+
 import streamlit as st
 import pandas as pd
 import numpy as np
